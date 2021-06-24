@@ -1,0 +1,6 @@
+.venv
+.vscode
+.ipynb_checkpoint
+__pycache__
+.git
+.gitignore
